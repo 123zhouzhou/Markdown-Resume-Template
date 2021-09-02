@@ -1,12 +1,12 @@
  <center>
-     <h1>XXX</h1>
+     <h1>周显晴</h1>
  </center>
 
 ## 个人信息 
 
 * 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23  
 * 手 机：188XXXX5928 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：sq15074416@163.com    
-* 专 业：计算机技术 &emsp;&emsp;&emsp;&emsp;&emsp; 求职意向：软件测试工程师
+* 专 业：计算机技术 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 求职意向：软件测试工程师
 
 ## 工作及教育经历
 
